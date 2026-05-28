@@ -1,0 +1,93 @@
+[
+    {
+        "order_number": "ORD-20260522182214-6549E5",
+        "created_at": "2026-05-22T18:22:14+02:00",
+        "customer": {
+            "name": "Strejda",
+            "email": "jan@example.cz"
+        },
+        "items": [
+            {
+                "productId": "miss-piskaci-micek",
+                "name": "Pískací míček pro psy",
+                "price": 89,
+                "qty": 1,
+                "lineTotal": 89
+            }
+        ],
+        "subtotal": 89,
+        "discount": 0,
+        "total": 89,
+        "coupon_code": null
+    },
+    {
+        "order_number": "ORD-20260523001034-AB4613",
+        "created_at": "2026-05-23T00:10:34+02:00",
+        "customer": {
+            "name": "Nekdo dalsi",
+            "email": "Nekdo@dalsi.czdsad"
+        },
+        "items": [
+            {
+                "productId": "miss-piskaci-micek",
+                "name": "Pískací míček pro psy",
+                "price": 89,
+                "qty": 3,
+                "lineTotal": 267
+            }
+        ],
+        "subtotal": 267,
+        "discount": 0,
+        "total": 267,
+        "coupon_code": null
+    },
+    {
+        "order_number": "ORD-20260523005627-B4A562",
+        "created_at": "2026-05-23T00:56:27+02:00",
+        "customer": {
+            "name": "sda",
+            "email": "dasda@fds"
+        },
+        "items": [
+            {
+                "productId": "konzerva-tuna-deluxe",
+                "name": "Konzerva pro kočky Tuna Deluxe 400 g",
+                "price": 49,
+                "qty": 2,
+                "lineTotal": 98
+            }
+        ],
+        "subtotal": 98,
+        "discount": 50,
+        "total": 48,
+        "coupon_code": "MAZLICEK50"
+    },
+    {
+        "order_number": "ORD-20260523111807-F4C1B5",
+        "created_at": "2026-05-23T11:18:07+02:00",
+        "customer": {
+            "name": "dasda",
+            "email": "gsag@dasd.fds"
+        },
+        "items": [
+            {
+                "productId": "plysova-mys",
+                "name": "Plyšová myš pro kočky",
+                "price": 49,
+                "qty": 60,
+                "lineTotal": 2940
+            },
+            {
+                "productId": "konzerva-tuna-deluxe",
+                "name": "Konzerva pro kočky Tuna Deluxe 400 g",
+                "price": 49,
+                "qty": 45,
+                "lineTotal": 2205
+            }
+        ],
+        "subtotal": 5145,
+        "discount": 515,
+        "total": 4630,
+        "coupon_code": "SLEVA10"
+    }
+]

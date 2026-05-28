@@ -1,0 +1,74 @@
+[
+    {
+        "id": "granule-activity-pro",
+        "name": "Granule pro psy Activity Pro 5 kg",
+        "category_id": "krmivo",
+        "price": 590,
+        "description": "Vyvážené granule pro aktivní psy. S vysokým obsahem bílkovin z kuřecího masa a obohacené o omega-3 mastné kyseliny.",
+        "stock": 12
+    },
+    {
+        "id": "konzerva-tuna-deluxe",
+        "name": "Konzerva pro kočky Tuna Deluxe 400 g",
+        "category_id": "krmivo",
+        "price": 49,
+        "description": "Šťavnatá konzerva s tuňákem v jemné omáčce. Vhodná jako kompletní krmivo pro dospělé kočky.",
+        "stock": 45
+    },
+    {
+        "id": "krmivo-veggie-mix",
+        "name": "Krmivo pro králíky Veggie Mix 2 kg",
+        "category_id": "krmivo",
+        "price": 199,
+        "description": "Pestrá směs sušené zeleniny, sena a granulí. Plná vitamínů pro zdravé králíky a morčata.",
+        "stock": 20
+    },
+    {
+        "id": "miss-piskaci-micek",
+        "name": "Pískací míček pro psy",
+        "category_id": "hracky",
+        "price": 89,
+        "description": "Gumový pískací míček ideální pro aportování. Pevný a odolný i pro silnější kousače.",
+        "stock": 30
+    },
+    {
+        "id": "plysova-mys",
+        "name": "Plyšová myš pro kočky",
+        "category_id": "hracky",
+        "price": 49,
+        "description": "Klasická plyšová myš s catnipem. Vaše kočka ji bude milovat.",
+        "stock": 60
+    },
+    {
+        "id": "skrabaci-provaz",
+        "name": "Škrábací provaz s pírkem",
+        "category_id": "hracky",
+        "price": 129,
+        "description": "Provázek s pírkem a rolničkou. Hodiny zábavy pro vaši kočku.",
+        "stock": 0
+    },
+    {
+        "id": "obojek-kozeny",
+        "name": "Kožený obojek pro psa",
+        "category_id": "doplnky",
+        "price": 349,
+        "description": "Klasický kožený obojek s kovovou přezkou. Dostupný v několika velikostech (S, M, L).",
+        "stock": 8
+    },
+    {
+        "id": "pelisek-kocka",
+        "name": "Pelíšek pro kočku Comfort",
+        "category_id": "doplnky",
+        "price": 799,
+        "description": "Měkký pelíšek z paměťové pěny. Snímatelný potah, lze prát na 30 stupňů.",
+        "stock": 5
+    },
+    {
+        "id": "pitko-hlodavci",
+        "name": "Pítko pro hlodavce 250 ml",
+        "category_id": "doplnky",
+        "price": 159,
+        "description": "Závěsné pítko s kovovou kuličkou. Snadno se čistí, drží těsně.",
+        "stock": 15
+    }
+]

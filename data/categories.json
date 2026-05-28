@@ -1,0 +1,17 @@
+[
+    {
+        "id": "krmivo",
+        "name": "Krmivo",
+        "description": "Kvalitní granule, konzervy a krmení pro psy, kočky a další mazlíčky."
+    },
+    {
+        "id": "hracky",
+        "name": "Hračky",
+        "description": "Hračky, které pobaví vašeho mazlíčka i na dlouhé deštivé odpoledne."
+    },
+    {
+        "id": "doplnky",
+        "name": "Doplňky",
+        "description": "Obojky, pelíšky, pítka a vše, co váš mazlíček potřebuje k pohodlí."
+    }
+]
